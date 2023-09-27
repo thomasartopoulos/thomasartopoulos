@@ -1,3 +1,3 @@
 ### Hola cibernauta 👋
 
-#### Para ver mi portfolio de mapas: [Click acá](thomasartopoulos.github.io/)
+#### Para ver mi portfolio de mapas: [Click acá](https://thomasartopoulos.github.io/portfolio/)
